@@ -8,4 +8,4 @@
 - JavaScript
 - BEM
 
-[Preview site link][http://finance-landing.frontend.km.ua/]
+[Preview site link](http://finance-landing.frontend.km.ua/)
